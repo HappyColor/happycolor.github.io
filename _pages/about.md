@@ -15,6 +15,27 @@ redirect_from:
 
 <br>
 
+# 🗞️News
+<div style="overflow-y: scroll; height: 295px;">
+  <ul>
+    <li>2023.02: Two papers are accepted by <b>ICASSP 2023</b>.</li>
+    <li>2023.02: I have been invited as a <b>reviewer</b> for <b>INTERSPEECH 2023</b>.</li>
+    <li>2023.01: Our paper is accepted by <b>TASLP</b>. What a great New Year's gift!</li>
+    <li>2022.11: I have been invited as a <b>reviewer</b> for <b>ICASSP 2023</b>.</li>
+    <li>2022.10: I have been invited as a <b>reviewer</b> for <b>TASLP</b>.</li>
+    <li>2022.10: I won the <b>National Scholarship</b>!</li>
+    <li>2022.06: Our paper is accepted by <b>INTERSPEECH 2022</b>.</li>
+    <li>2022.01: Our paper is accepted by <b>ICASSP 2022</b>.</li>
+    <li>2021.10: We travel to Xuzhou to <b>attend the offline NCMMSC conference</b> and present our paper orally.</li>
+    <li>2021.10: Our paper is accepted by <b>NCMMSC 2021</b> as <b>Oral</b>.</li>
+    <li>2021.07: I am a <b>graduate student</b> now!</li>
+    <li>2021.02: Our paper is <b>accepted</b> by <b>ICASSP 2021</b>.</li>
+    <li>2020.10: Start my research in the lab of <b>South China University of Technology</b>.</li>
+  </ul>
+</div>
+
+<br>
+
 # 📝Conferences
 ----------
 <div>
@@ -68,26 +89,6 @@ redirect_from:
 
 <br>
 
-# 🗞️News
-<div style="overflow-y: scroll; height: 295px;">
-  <ul>
-    <li>2023.02: Two papers are accepted by <b>ICASSP 2023</b>.</li>
-    <li>2023.02: I have been invited as a <b>reviewer</b> for <b>INTERSPEECH 2023</b>.</li>
-    <li>2023.01: Our paper is accepted by <b>TASLP</b>. What a great New Year's gift!</li>
-    <li>2022.11: I have been invited as a <b>reviewer</b> for <b>ICASSP 2023</b>.</li>
-    <li>2022.10: I have been invited as a <b>reviewer</b> for <b>TASLP</b>.</li>
-    <li>2022.10: I won the <b>National Scholarship</b>!</li>
-    <li>2022.06: Our paper is accepted by <b>INTERSPEECH 2022</b>.</li>
-    <li>2022.01: Our paper is accepted by <b>ICASSP 2022</b>.</li>
-    <li>2021.10: We travel to Xuzhou to <b>attend the offline NCMMSC conference</b> and present our paper orally.</li>
-    <li>2021.10: Our paper is accepted by <b>NCMMSC 2021</b> as <b>Oral</b>.</li>
-    <li>2021.07: I am a <b>graduate student</b> now!</li>
-    <li>2021.02: Our paper is <b>accepted</b> by <b>ICASSP 2021</b>.</li>
-    <li>2020.10: Start my research in the lab of <b>South China University of Technology</b>.</li>
-  </ul>
-</div>
-<br>
-  
 # 🏆Award
 * <b>2022:</b> National Scholarship
 * <b>2020:</b> The Second Prize Scholarship of SCUT

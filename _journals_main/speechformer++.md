@@ -11,10 +11,10 @@ thumbnail: "speechformer++.png"
 teaser :
 authors: "Weidong Chen, Xiaofen Xing, Xiangmin Xu, Jianxin Pang, Lan Du"
 bibtex: speechformer++.txt
-uri: speechformer++.pdf
+uri: speechformer++_arxiv.pdf
 arxiv: 
 project: 
-source: 
+source: https://github.com/HappyColor/SpeechFormer2
 poster:
 data:
 ---
