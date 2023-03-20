@@ -12,10 +12,10 @@ redirect_from:
 * My primary research interests are in <b>speech signal processing</b> and mainly focus on:
     * <b>Emotion</b>: Speech Emotion Recognition and Multimodal Sentiment Analysis.  
     * <b>Neurocognitive Disorder</b>: Alzheimer’s Disease Detection and Depression Classification.
-* My published papers can be found [here](https://happycolor.github.io/publications/).
 
+<br>
 
-# 📄Conferences
+# 📝Conferences
 ----------
 <div>
   <table>
@@ -34,8 +34,9 @@ redirect_from:
   </a>
 </div>  -->
 
+<br>
 
-# 📄Journals
+# 📝Journals
 ----------
 <div>
   <table>
@@ -87,12 +88,13 @@ redirect_from:
 </div>
 <br>
   
-# 🎓Education
-* <b>2021 - Now:</b> School of Electronic and Information Engineering, SCUT (M.E. degree)
-* <b>2017 - 2021:</b> School of Electronic and Information Engineering, SCUT (B.E. degree)<br><br>
-
 # 🏆Award
 * <b>2022:</b> National Scholarship
 * <b>2020:</b> The Second Prize Scholarship of SCUT
 * <b>2019:</b> Chien-Chung Tsai Scholarship
 * <b>2018:</b> Chien-Chung Tsai Scholarship
+
+
+# 🎓Education
+* <b>2021 - Now:</b> School of Electronic and Information Engineering, SCUT (M.E. degree)
+* <b>2017 - 2021:</b> School of Electronic and Information Engineering, SCUT (B.E. degree)<br><br>
