@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Peihao Chen's Homepage"
+title                    : "Weidong Chen's Homepage"
 title_separator          : "-"
-name                     : &name "Peihao Chen"
-description              : &description "personal description"
-url                      : https://peihaochen.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Weidong Chen"
+description              : &description "Graduate student at South China University of Technology"
+url                      : https://happycolor.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "PeihaoChen/peihaochen.github.io"
+repository               : "happycolor.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,13 +80,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Peihao Chen"
-  avatar           : "profile.png"
-  bio              : Ph.D Candidate
+  name             : "Weidong Chen"
+  avatar           : "profile.jpg"
+  bio              : "Graduate Student <br> South China University of Technology"
   location         : "Guangzhou, China"
-  employer         : "South China University of Technology"
-  googlescholar    : "https://scholar.google.com/citations?user=KkpEXpsAAAAJ&hl=en"
-  email            : "phchencs@gmail.com"
+  employer         : 
+  googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=0v4x2X8AAAAJ"
+  email            : "eewdchen@mail.scut.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -95,7 +95,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "peihaochen"
+  github           : "happycolor"
   google_plus      :
   keybase          :
   instagram        :

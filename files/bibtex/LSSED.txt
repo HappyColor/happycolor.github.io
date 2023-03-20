@@ -1,0 +1,10 @@
+@inproceedings{fan2021lssed,
+  title={LSSED: A Large-Scale Dataset and Benchmark for Speech Emotion },
+  author={Weiquan Fan and
+          Xiangmin Xu and
+          Xiaofen Xing and
+          Weidong Chen and        
+          Dongyan Huang},
+  booktitle={IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)},
+  year={2021},
+}

@@ -8,28 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-<br />
-I am a Ph.D. candidate in the School of Software Engineering at South China University of Technology, advised by Prof. [Mingkui Tan](https://tanmingkui.github.io/) and Prof. [Chuang Gan](https://people.csail.mit.edu/ganchuang/).
-
-* My primary research interests are in <b>Visual Understanding</b> and mainly focus on:
-  * <b>Video Understanding</b>: self-supervised video representation learning, temporal action localization;
-  * <b>Embodied AI</b>: vision-and-language navigation;
-<br>
-
-# 🗞️ News
-<div style="overflow-y: scroll; height: 150px;">
-  <ul>
-    <li>2023.02: One paper is accepted by <b>CVPR 2023</b>!</li>
-    <li>2023.02: The code for <b>MGMap</b> and <b>ActiveCamera</b> is now available.</li>
-    <li>2022.11: Two NeurIPS 2022 papers are selected as <b>Spotlight</b>!</li>
-    <li>2022.10: Two papers are accepted by <b>NeurIPS 2022</b>!</li>
-    <li>2021.01: One paper is accepted by <b>AAAI 2021</b>!</li>
-  </ul>
-</div>
-<br>
+* Hi there! I am Weidong, a graduate student in the [School of Electronic and Information Engineering](http://www2.scut.edu.cn/ee/) at [South China University of Technology](https://www.scut.edu.cn/new/), advised by Associate Prof. [Xiaofen Xing](https://dblp.org/pid/41/9939.html) and Prof. [Xiangmin Xu](https://dblp.org/pid/28/9939.html).
+* My primary research interests are in <b>speech signal processing</b> and mainly focus on:
+    * <b>Emotion</b>: Speech Emotion Recognition and Multimodal Sentiment Analysis.  
+    * <b>Neurocognitive Disorder</b>: Alzheimer’s Disease Detection and Depression Classification.
+* My published papers can be found [here](https://happycolor.github.io/publications/).
 
 
-Conferences
+# 📄Conferences
 ----------
 <div>
   <table>
@@ -49,7 +35,7 @@ Conferences
 </div>  -->
 
 
-Journals
+# 📄Journals
 ----------
 <div>
   <table>
@@ -81,7 +67,32 @@ Journals
 
 <br>
 
-# 🏆 Award
-* <b>2020:</b> The Principle's Scholarship of SCUT
-* <b>2018:</b> The First Prize Scholarship of SCUT
-* <b>2017:</b> The Second Prize of the NXP Cup National University Students Intelligent Car Race
+# 🗞️News
+<div style="overflow-y: scroll; height: 295px;">
+  <ul>
+    <li>2023.02: Two papers are accepted by <b>ICASSP 2023</b>.</li>
+    <li>2023.02: I have been invited as a <b>reviewer</b> for <b>INTERSPEECH 2023</b>.</li>
+    <li>2023.01: Our paper is accepted by <b>TASLP</b>. What a great New Year's gift!</li>
+    <li>2022.11: I have been invited as a <b>reviewer</b> for <b>ICASSP 2023</b>.</li>
+    <li>2022.10: I have been invited as a <b>reviewer</b> for <b>TASLP</b>.</li>
+    <li>2022.10: I won the <b>National Scholarship</b>!</li>
+    <li>2022.06: Our paper is accepted by <b>INTERSPEECH 2022</b>.</li>
+    <li>2022.01: Our paper is accepted by <b>ICASSP 2022</b>.</li>
+    <li>2021.10: We travel to Xuzhou to <b>attend the offline NCMMSC conference</b> and present our paper orally.</li>
+    <li>2021.10: Our paper is accepted by <b>NCMMSC 2021</b> as <b>Oral</b>.</li>
+    <li>2021.07: I am a <b>graduate student</b> now!</li>
+    <li>2021.02: Our paper is <b>accepted</b> by <b>ICASSP 2021</b>.</li>
+    <li>2020.10: Start my research in the lab of <b>South China University of Technology</b>.</li>
+  </ul>
+</div>
+<br>
+  
+# 🎓Education
+* <b>2021 - Now:</b> School of Electronic and Information Engineering, SCUT (M.E. degree)
+* <b>2017 - 2021:</b> School of Electronic and Information Engineering, SCUT (B.E. degree)<br><br>
+
+# 🏆Award
+* <b>2022:</b> National Scholarship
+* <b>2020:</b> The Second Prize Scholarship of SCUT
+* <b>2019:</b> Chien-Chung Tsai Scholarship
+* <b>2018:</b> Chien-Chung Tsai Scholarship

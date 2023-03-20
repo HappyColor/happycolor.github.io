@@ -1,0 +1,9 @@
+@article{chen2023speechformer++,
+  title={SpeechFormer++: A Hierarchical Efficient Framework for Paralinguistic Speech Processing},
+  author={Weidong Chen, Xiaofen Xing, Xiangmin Xu, Jianxin Pang, Lan Du},
+  journal={IEEE/ACM Transactions on Audio, Speech, and Language Processing},
+  volume={31},
+  number={},
+  pages={775--788},
+  year={2023},
+}

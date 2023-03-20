@@ -1,0 +1,10 @@
+@inproceedings{chen2023ad,
+  title={Locally Salient Features and Global Relations Modeling for Alzheimer’s Disease Detection},
+  author={Weidong Chen and
+          Xiaofen Xing and
+          Shuaiqi Chen and
+          Weiquan Fan and
+          Wan Ding},
+  booktitle={The Sixteenth National Conference on Man-Machine Speech Communication (NCMMSC)},
+  year={2021},
+}

@@ -1,0 +1,10 @@
+@inproceedings{chen2022speechformer,
+  title={SpeechFormer: A Hierarchical Efficient Framework Incorporating the Characteristics of Speech},
+  author={Weidong Chen and
+          Xiaofen Xing and
+          Xiangmin Xu and
+          Jianxin Pang and
+          Lan Du},
+  booktitle={Proc. Interspeech},
+  year={2022},
+}

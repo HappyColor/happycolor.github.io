@@ -1,0 +1,10 @@
+@inproceedings{chen2023DST,
+  title={DST: Deformable Speech Transformer for Emotion Recognition},
+  author={Weidong Chen and
+          Xiaofen Xing and
+          Xiangmin Xu and
+          Jianxin Pang and
+          Lan Du},
+  booktitle={IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)},
+  year={2023},
+}

@@ -1,0 +1,10 @@
+@inproceedings{chen2022kstransformer,
+  title={Key-Sparse Transformer for Multimodal Speech Emotion Recognition},
+  author={Weidong Chen and
+          Xiaofen Xing and
+          Xiangmin Xu and
+          Jichen Yang and
+          Jianxin Pang},
+  booktitle={IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)},
+  year={2022},
+}
