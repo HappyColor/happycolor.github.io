@@ -2,7 +2,7 @@
 title: "DST: Deformable Speech Transformer for Emotion Recognition "
 collection: conferences
 permalink: /publication/DST
-date: 2023-03-01
+date: 2023-03-02
 year: "2023"
 venue: "ICASSP"
 spotlight: false

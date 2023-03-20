@@ -94,6 +94,7 @@ redirect_from:
 * <b>2019:</b> Chien-Chung Tsai Scholarship
 * <b>2018:</b> Chien-Chung Tsai Scholarship
 
+<br>
 
 # 🎓Education
 * <b>2021 - Now:</b> School of Electronic and Information Engineering, SCUT (M.E. degree)
