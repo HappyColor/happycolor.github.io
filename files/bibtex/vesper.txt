@@ -1,0 +1,8 @@
+@misc{chen2023vesper,
+      title={Vesper: A Compact and Effective Pretrained Model for Speech Emotion Recognition}, 
+      author={Weidong Chen and Xiaofen Xing and Peihao Chen and Xiangmin Xu},
+      year={2023},
+      eprint={2307.10757},
+      archivePrefix={arXiv},
+      primaryClass={cs.SD}
+}

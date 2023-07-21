@@ -18,6 +18,7 @@ redirect_from:
 # 🗞️News
 <div style="overflow-y: scroll; height: 295px;">
   <ul>
+    <li>2023.06: Going abroad to attend ICASSP 2023! See you in the Greek island of Rhodes.</li>
     <li>2023.03: I have been invited as a <b>reviewer</b> for the journal <b>IJHCI</b>.</li>
     <li>2023.02: Two papers are accepted by <b>ICASSP 2023</b>.</li>
     <li>2023.02: I have been invited as a <b>reviewer</b> for <b>INTERSPEECH 2023</b>.</li>
@@ -78,7 +79,7 @@ redirect_from:
 </div>  -->
 
 
-<!-- Preprint Paper
+# 📝 Preprint Paper
 ----------
 <div>
   <table>
@@ -86,7 +87,7 @@ redirect_from:
     <tr>{% include publication.html %}</tr>
   {% endfor %}
   </table>
-</div> -->
+</div>
 
 <br>
 
