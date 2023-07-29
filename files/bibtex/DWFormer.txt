@@ -1,6 +1,6 @@
 @InProceedings{chen2023DWFormer,
 author = {Shuaiqi Chen, Xiaofen Xing, Weibin Zhang, Weidong Chen, Xiangmin Xu},
-title = {DWFormer: Dynamic Window Transfortmer for Speech Emotion Recognition},
+title = {DWFormer: Dynamic Window Transformer for Speech Emotion Recognition},
 booktitle = {IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)},
 year = {2023}
 }

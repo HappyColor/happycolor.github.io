@@ -1,5 +1,5 @@
 ---
-title: "DWFormer: Dynamic Window Transfortmer for Speech Emotion Recognition"
+title: "DWFormer: Dynamic Window Transformer for Speech Emotion Recognition"
 collection: conferences
 permalink: /publication/DWFormer
 date: 2023-03-01
