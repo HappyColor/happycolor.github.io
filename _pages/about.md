@@ -80,6 +80,7 @@ redirect_from:
 
 <br>
 
+<!--
 # 📝 Preprint Paper
 ----------
 <div>
@@ -89,10 +90,12 @@ redirect_from:
   {% endfor %}
   </table>
 </div>
+-->
 
 <br>
 
 # 🏆Award
+* <b>2023:</b> National Scholarship
 * <b>2022:</b> National Scholarship
 * <b>2020:</b> The Second Prize Scholarship of SCUT
 * <b>2019:</b> Chien-Chung Tsai Scholarship
