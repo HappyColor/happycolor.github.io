@@ -89,10 +89,10 @@ redirect_from:
     <tr>{% include publication.html %}</tr>
   {% endfor %}
   </table>
-</div> -->
+</div> 
 
+<br> -->
 
-<br>
 
 # 🏆Award
 * <b>2023:</b> National Scholarship
