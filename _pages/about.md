@@ -80,8 +80,8 @@ redirect_from:
 
 <br>
 
-<!--
-# 📝 Preprint Paper
+
+<!-- # 📝 Preprint Paper
 ----------
 <div>
   <table>
@@ -89,8 +89,8 @@ redirect_from:
     <tr>{% include publication.html %}</tr>
   {% endfor %}
   </table>
-</div>
--->
+</div> -->
+
 
 <br>
 
