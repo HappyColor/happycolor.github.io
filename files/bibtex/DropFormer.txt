@@ -1,0 +1,9 @@
+@inproceedings{mai2024DropFormer,
+  title={DropFormer: A Dynamic Noise-Dropping Transformer for Speech Emotion Recognition},
+  author={Jialong Mai and
+          Xiaofen Xing and
+          Weidong Chen and
+          Xiangmin Xu},
+  booktitle={Proc. Interspeech},
+  year={2024},
+}
