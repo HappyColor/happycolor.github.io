@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Weidong Chen"
   avatar           : "profile.jpg"
-  bio              : "Graduate Student <br> South China University of Technology"
-  location         : "Guangzhou, China"
+  bio              : "PhD Student <br> The Chinese University of Hong Kong"
+  location         : "Hong Kong SAR, China"
   employer         : 
   googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=0v4x2X8AAAAJ"
-  email            : "eewdchen@mail.scut.edu.cn"
+  email            : "wdchen@se.cuhk.edu.hk"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :

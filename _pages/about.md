@@ -104,6 +104,6 @@ redirect_from:
 <br>
 
 # 🎓Education
-* <b>2021 - Now:</b> Systems Engineering & Engineering Management, The Chinese University of Hong Kong (PhD. degree)
+* <b>2024 - Now:</b> Systems Engineering & Engineering Management, The Chinese University of Hong Kong (PhD. degree)
 * <b>2021 - 2024:</b> School of Electronic and Information Engineering, South China University of Technology (M.E. degree)
 * <b>2017 - 2021:</b> School of Electronic and Information Engineering, South China University of Technology (B.E. degree)<br><br>
