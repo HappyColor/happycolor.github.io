@@ -8,14 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-* Hi there! I am Weidong, a graduate student in the [School of Electronic and Information Engineering](http://www2.scut.edu.cn/ee/) at [South China University of Technology](https://www.scut.edu.cn/new/), advised by Associate Prof. [Xiaofen Xing](https://dblp.org/pid/41/9939.html) and Prof. [Xiangmin Xu](https://dblp.org/pid/28/9939.html).
+* Hi there! I am Weidong, a first-year PhD student at [The Chinese University of Hong Kong](https://www.cuhk.edu.hk), advised by Prof. [Xixin Wu](https://scholar.google.com.hk/citations?hl=zh-CN&user=y8O77DYAAAAJ) and Prof. [Helen Meng](https://www.se.cuhk.edu.hk/people/academic-staff/prof-meng-mei-ling-helen/).
 * My primary research interests are in <b>speech signal processing</b> and mainly focus on:
+    * <b>Speech Synthesis</b>: Expressive Speech Generation and Conversational TTS.  
     * <b>Emotion</b>: Speech Emotion Recognition and Multimodal Sentiment Analysis.  
-    * <b>Neurocognitive Disorder</b>: Alzheimer’s Disease Detection and Depression Classification.
 
 <br>
 
-# 🗞️News
+<!-- # 🗞️News
 <div style="overflow-y: scroll; height: 295px;">
   <ul>
     <li>2023.06: Going abroad to attend ICASSP 2023! See you in the Greek island of Rhodes.</li>
@@ -36,7 +36,7 @@ redirect_from:
   </ul>
 </div>
 
-<br>
+<br> -->
 
 # 📝Conferences
 ----------
@@ -104,5 +104,6 @@ redirect_from:
 <br>
 
 # 🎓Education
-* <b>2021 - Now:</b> School of Electronic and Information Engineering, SCUT (M.E. degree)
-* <b>2017 - 2021:</b> School of Electronic and Information Engineering, SCUT (B.E. degree)<br><br>
+* <b>2021 - Now:</b> Systems Engineering & Engineering Management, The Chinese University of Hong Kong (PhD. degree)
+* <b>2021 - 2024:</b> School of Electronic and Information Engineering, South China University of Technology (M.E. degree)
+* <b>2017 - 2021:</b> School of Electronic and Information Engineering, South China University of Technology (B.E. degree)<br><br>
