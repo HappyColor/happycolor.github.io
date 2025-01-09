@@ -1,0 +1,9 @@
+@inproceedings{chen2025drawspeech,
+  title={DrawSpeech: Expressive Speech Synthesis Using Prosodic Sketches as Control Conditions},
+  author={Weidong Chen and
+          Shan Yang and
+          Guangzhi Li and
+          Xixin Wu},
+  booktitle={IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)},
+  year={2025},
+}
