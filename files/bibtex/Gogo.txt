@@ -1,0 +1,7 @@
+@inproceedings{chen2026gogo,
+title={Gogo: Group-wise granularity-ordered codec for stable and efficient speech generation},
+author={Weidong Chen and Helen M. Meng and Xixin Wu},
+booktitle={The Fourteenth International Conference on Learning Representations},
+year={2026},
+url={https://openreview.net/forum?id=JbLmIoWwDC}
+}
