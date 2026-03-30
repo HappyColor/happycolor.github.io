@@ -39,7 +39,7 @@ redirect_from:
 
 <br> -->
 
-# 📝Conferences
+# 📝 Selected Conference Papers
 ----------
 <div>
   <table>
@@ -60,7 +60,7 @@ redirect_from:
 
 <br>
 
-# 📝Journals
+# 📝 Journals
 ----------
 <div>
   <table>
