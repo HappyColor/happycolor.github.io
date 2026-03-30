@@ -8,9 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-* Hi there! I am Weidong, a first-year PhD student at [The Chinese University of Hong Kong](https://www.cuhk.edu.hk), advised by Prof. [Xixin Wu](https://scholar.google.com.hk/citations?hl=zh-CN&user=y8O77DYAAAAJ) and Prof. [Helen Meng](https://www.se.cuhk.edu.hk/people/academic-staff/prof-meng-mei-ling-helen/).
+* Hi there! I am Weidong, a second-year PhD student at [The Chinese University of Hong Kong](https://www.cuhk.edu.hk), advised by Prof. [Xixin Wu](https://scholar.google.com.hk/citations?hl=zh-CN&user=y8O77DYAAAAJ) and Prof. [Helen Meng](https://www.se.cuhk.edu.hk/people/academic-staff/prof-meng-mei-ling-helen/).
 * My primary research interests are in <b>speech signal processing</b> and mainly focus on:
-    * <b>Speech Synthesis</b>: Expressive Speech Generation and Conversational TTS.  
+    * <b>Speech Generation</b>: Expressive Speech Synthesis and Conversational TTS.  
+    * <b>Speech Understanding</b>: Speech Reasoning and Speech Foundation Model.  
     * <b>Emotion</b>: Speech Emotion Recognition and Multimodal Sentiment Analysis.  
 
 <br>
